@@ -1,2 +1,2 @@
 # DEETECH
-Junior Web Developer front end
+Junior front end Web Developer 
